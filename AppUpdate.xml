@@ -4,9 +4,10 @@
         <version>1.1.0.0</version> 
         <url>https://github.com/truger44/ColorConverterApp/raw/master/App/ColorConverterApp.exe</url> 
         <fileName>ColorConverterApp.exe</fileName> 
-        <md5>21cce00900c4970fffee2137b2589368</md5>
+        <md5>6d8b755f5be00149d4a1d69a8db2dda0</md5>
         <description>Update: 12/6/2015:
-        1. Initial Update</description> 
+        1. Added Products webpage in about menu.
+		2. Fixed isSystem and isknown color verifyers.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
